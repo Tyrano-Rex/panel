@@ -1,63 +1,72 @@
-🦖 Tyrano-Rex Panel
-
 <div align="center">
 
-https://img.shields.io/badge/Tyrano--Rex-Panel-00C853?style=for-the-badge&logo=server&logoColor=white
-https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge
-https://img.shields.io/badge/license-MIT-green?style=for-the-badge
-https://img.shields.io/badge/status-active-success?style=for-the-badge
+<img src="URL_BANNER_KAMU" alt="Tyrano-Rex Panel Banner" width="100%" />
 
-🚀 Modern Server Management Platform
+# 🦖 Tyrano-Rex Panel
 
-Kelola server dengan mudah, cepat, dan efisien melalui antarmuka web yang modern.
+**Modern Server Management Platform**
 
-Fitur • Preview • Dokumentasi • Komunitas • Lisensi
+![Version](https://img.shields.io/badge/version-dev-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-in%20development-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-web-00C853?style=for-the-badge)
+
+### 🚀 Kelola server dengan mudah, cepat, dan efisien.
+
+[Fitur](#-fitur-utama) • [Status Proyek](#-status-proyek) • [Preview](#-preview) • [Dokumentasi](#-dokumentasi) • [Komunitas](#-komunitas) • [Lisensi](#-lisensi)
 
 </div>
 
 ---
 
-📖 Tentang Tyrano-Rex Panel
+## 📖 Tentang Tyrano-Rex Panel
 
-Tyrano-Rex Panel adalah platform manajemen server modern yang dirancang untuk menyederhanakan proses deployment, konfigurasi, dan administrasi server melalui antarmuka web yang intuitif.
+**Tyrano-Rex Panel** adalah platform manajemen server modern yang dirancang untuk menyederhanakan proses **deployment**, **konfigurasi**, dan **administrasi** server melalui antarmuka web yang intuitif.
 
-Dibangun dengan prinsip fleksibilitas dan skalabilitas, Tyrano-Rex hadir untuk memberikan pengalaman manajemen yang efisien — baik untuk game server maupun berbagai aplikasi lain yang didukung.
+Dibangun dengan prinsip **fleksibilitas** dan **skalabilitas**, Tyrano-Rex hadir untuk memberikan pengalaman manajemen yang efisien — baik untuk **game server** maupun berbagai aplikasi lain yang didukung.
 
-💡 "Kelola semua server-mu dari satu panel. Cepat, aman, dan powerful."
+> 💡 *"Kelola semua server-mu dari satu panel. Cepat, aman, dan powerful."*
 
 ---
 
-✨ Fitur Utama
+## 🚧 Status Proyek
+
+<div align="center">
+
+> ⚠️ **Proyek ini masih dalam tahap pengembangan dan modifikasi.**
+>
+> Fitur, tampilan, dan dokumentasi dapat berubah sewaktu-waktu.
+> Ikuti terus update-nya melalui channel Telegram resmi di bawah. 👇
+
+</div>
+
+---
+
+## ✨ Fitur Utama
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-🎯 Manajemen Terpusat
-
+### 🎯 Manajemen Server Terpusat
 Kelola semua server dari satu dashboard — tidak perlu berpindah-pindah panel.
 
-👥 User & Permission
-
+### 👥 User & Permission Management
 Sistem manajemen pengguna dengan kontrol akses berbasis role yang fleksibel.
 
-⚙️ Konfigurasi Resource
-
+### ⚙️ Konfigurasi Resource Server
 Atur alokasi CPU, RAM, dan storage per server dengan mudah.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-🌐 Multi-Node Support
-
+### 🌐 Multi-Node Management
 Dukungan multi-node untuk skalabilitas horizontal yang maksimal.
 
-🎨 UI Modern
+### 🎨 Antarmuka Web Modern
+UI modern, responsif, dan ringan — nyaman di desktop maupun mobile.
 
-Antarmuka web modern, responsif, dan ringan — nyaman di desktop maupun mobile.
-
-🧩 Fleksibel
-
+### 🧩 Dukungan Aplikasi Fleksibel
 Mendukung berbagai aplikasi, mulai dari game server hingga layanan lainnya.
 
 </td>
@@ -66,64 +75,57 @@ Mendukung berbagai aplikasi, mulai dari game server hingga layanan lainnya.
 
 ---
 
-🖼️ Preview
+## 🖼️ Preview
 
 <div align="center">
 
-📸 Screenshot akan segera hadir seiring perkembangan proyek.
+<img src="URL_PREVIEW_KAMU" alt="Tyrano-Rex Panel Preview" width="90%" />
 
-```
-┌─────────────────────────────────────────────┐
-│  🦖 Tyrano-Rex Panel                        │
-│  ┌─────────┐  ┌─────────┐  ┌─────────┐     │
-│  │ Servers │  │  Nodes  │  │  Users  │     │
-│  │   12    │  │    3    │  │    8    │     │
-│  └─────────┘  └─────────┘  └─────────┘     │
-│                                             │
-│  [ Dashboard Preview Coming Soon ]          │
-└─────────────────────────────────────────────┘
-```
+> 📸 **Preview akan tersedia setelah proyek selesai dikembangkan.**
+>
+> Pantau terus repository dan channel Telegram untuk update terbaru!
 
 </div>
 
 ---
 
-📚 Dokumentasi
-
-Dokumentasi lengkap dan panduan instalasi akan tersedia seiring perkembangan proyek.
-
-```bash
-# Coming soon:
-# - Installation Guide
-# - Configuration Manual
-# - API Reference
-# - Troubleshooting
-```
-
----
-
-💬 Komunitas
-
-Punya pertanyaan, ide, atau ingin berkontribusi? Bergabunglah dengan komunitas kami!
+## 📚 Dokumentasi
 
 <div align="center">
 
-https://img.shields.io/badge/GitHub-Tyrano--Rex-181717?style=for-the-badge&logo=github
-https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
+> 📖 **Dokumentasi dan panduan instalasi akan tersedia setelah proyek selesai.**
+>
+> Saat ini proyek masih dalam tahap pengembangan aktif.
 
 </div>
 
-Dukungan, pertanyaan, dan update terbaru bisa kamu temukan di GitHub Repository proyek ini.
-
 ---
 
-📄 Lisensi
+## 💬 Komunitas
+
+Punya pertanyaan, menemukan bug, atau ingin berdiskusi? Bergabunglah dengan komunitas kami di **Telegram Channel**!
 
 <div align="center">
 
-Tyrano-Rex Panel dirilis di bawah lisensi MIT License.
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 
-https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
+</div>
+
+### 📢 Informasi yang dibagikan di channel:
+- 🐛 Laporan bug & error
+- 📦 Update fitur terbaru
+- 💡 Diskusi & tanya jawab
+- 📣 Pengumuman penting seputar proyek
+
+---
+
+## 📄 Lisensi
+
+<div align="center">
+
+**Tyrano-Rex Panel** dirilis di bawah lisensi **MIT License**.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 </div>
 
@@ -131,9 +133,9 @@ https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
 
 <div align="center">
 
-🦖 Dibuat dengan ❤️ untuk komunitas server
+### 🦖 Dibuat dengan ❤️ untuk komunitas server
 
-⭐ Jangan lupa beri bintang jika proyek ini bermanfaat! ⭐
+**⭐ Jangan lupa beri bintang jika proyek ini bermanfaat! ⭐**
 
 ```
 © 2025 Tyrano-Rex Panel — Modern Server Management Platform
